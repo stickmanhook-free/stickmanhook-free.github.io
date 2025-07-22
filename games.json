@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Stickman Hook",
+        "slug": "stickman-hook",
+        "image": "/cache/data/image/game/stickman-hook/stickman-hook-m186x186.webp"
+    },
+    {
+        "name": "Hanger",
+        "slug": "hanger",
+        "image": "/cache/data/image/game/hanger/hanger1-m186x186.webp"
+    },
+    {
+        "name": "Spiderman Hook Rescue",
+        "slug": "spiderman-hook-rescue",
+        "image": "/cache/data/image/game/spiderman-hook-rescue-m186x186.webp"
+    },
+    {
+        "name": "Stickboys Hook",
+        "slug": "stickboys-hook",
+        "image": "/cache/data/image/game/stickboys-hook/stickboys-hook-m186x186.webp"
+    },
+    {
+        "name": "Swing Robber",
+        "slug": "swing-robber",
+        "image": "/cache/data/image/game/swing-robber/swing-robber-m186x186.webp"
+    },
+    {
+        "name": "Neon Swing",
+        "slug": "neon-swing",
+        "image": "/cache/data/image/game/neon-swing/neon-swing-m186x186.webp"
+    },
+    {
+        "name": "Ultimate Ninja Swing",
+        "slug": "ultimate-ninja-swing",
+        "image": "/cache/data/image/game/ultimate-ninja-swing/ultimate-ninja-swing-m186x186.webp"
+    },
+    {
+        "name": "Spidey Swing",
+        "slug": "spidey-swing",
+        "image": "/cache/data/image/game/spidey-swing/spidey-swing-m186x186.webp"
+    },
+    {
+        "name": "Swing Star",
+        "slug": "swing-star",
+        "image": "/cache/data/image/game/swing-star/swing-star-m186x186.webp"
+    }
+]
